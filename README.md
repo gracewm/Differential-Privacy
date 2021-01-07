@@ -1,4 +1,4 @@
-### Project for Application of Differential Privacy with PATE
+### Application of Differential Privacy with PATE
 
 <font size="3">
 <p>Differential Privacy (DP) is a criterion of privacy protection in analyzing sensitive personal information. <br/>
